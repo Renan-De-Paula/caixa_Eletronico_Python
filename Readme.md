@@ -27,7 +27,7 @@ Validação de opções inseridas pelo usuário
 
 ▶ Exemplo de Execução
 ------------------------------
-          Banco OnFlux
+       Banco OnFlux
 ------------------------------
 
 Selecione a Opção
@@ -43,19 +43,6 @@ Ex: (R$0.00): R$ 100
 
 Você sacou: R$100.00
 Saldo: R$9900.00
-
-🚀 Como Executar
-
-Certifique-se de ter o Python 3.x instalado
-
-Baixe ou clone este repositório:
-
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
-
-
-Execute o script no terminal:
-
-python Sistema_Bancario_While.py
 
 📌 Melhorias Futuras
 
